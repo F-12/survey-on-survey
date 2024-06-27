@@ -9,3 +9,4 @@
 # 目录
 
 - [A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future](https://arxiv.org/pdf/2309.15402)
+- [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997)
